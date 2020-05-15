@@ -130,7 +130,6 @@ elif n==2:
     en1=int(input('if you want to see data as admin enter 1 else enter 2\n'))
     if en1==1:
         admin()
-#NEED TO EDIT THE ENTRY DETAILS
 
                 
                 
